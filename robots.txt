@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://chenrui20051021-bot.github.io/dating-guide/sitemap.xml
